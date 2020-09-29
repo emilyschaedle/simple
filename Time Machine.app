@@ -6,4 +6,4 @@ Hello! Test request from the master. Special for the conflict test branch.
 
 Right now I'm working on this.
 
-I mean it!
+I mean it, on the master branch. 
